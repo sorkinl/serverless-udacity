@@ -1,5 +1,7 @@
 # Serverless TODO
 
+### Application is a project done as part of Udacity Cloud Developer Nanodegree. The AWS API Gateway that was used in this application no longer exists, to avoid unnecessary spending.
+
 # Functionality of the application
 
 This application will allow creating/removing/updating/fetching TODO items. Each TODO item can optionally have an attachment image. Each user only has access to TODO items that he/she has created.
